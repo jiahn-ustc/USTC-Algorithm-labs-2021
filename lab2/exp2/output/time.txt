@@ -1,0 +1,5 @@
+n=10 time = 0.0146ms
+n=15 time = 0.0236ms
+n=20 time = 0.0125ms
+n=25 time = 0.0328ms
+n=30 time = 0.0168ms

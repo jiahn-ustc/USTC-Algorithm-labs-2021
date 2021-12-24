@@ -1,0 +1,10 @@
+step2:
+time = 0.2657ms
+step3: 
+time = 0.3861ms
+step4:
+time = 0.6233ms
+step5: 
+time = 1.2854ms
+step7: 
+time = 1.447ms

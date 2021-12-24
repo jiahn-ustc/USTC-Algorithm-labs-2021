@@ -1,0 +1,5 @@
+n=10 family numer is 3
+n=15 family numer is 3
+n=20 family numer is 2
+n=25 family numer is 1
+n=30 family numer is 5
