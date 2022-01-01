@@ -1,0 +1,8 @@
+input11,time = 0.7198ms
+input12,time = 0.4106ms
+input21,time = 7.4242ms
+input22,time = 6.8879ms
+input31,time = 98.89ms
+input32,time = 69.1872ms
+input41,time = 1182.41ms
+input42,time = 930.4ms
