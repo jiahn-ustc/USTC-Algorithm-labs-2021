@@ -1,0 +1,5 @@
+m= 8,m_time = 0.0008ms,n= 256,n_time = 0.0048ms
+m= 16,m_time = 0.0008ms,n= 512,n_time = 0.0076ms
+m= 32,m_time = 0.001ms,n= 1024,n_time = 0.0135ms
+m= 64,m_time = 0.0017ms,n= 2048,n_time = 0.0278ms
+m= 128,m_time = 0.0029ms,n= 4096,n_time = 0.0507ms
